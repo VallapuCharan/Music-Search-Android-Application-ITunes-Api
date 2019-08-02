@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Group15_HW03</string>
+    <string name="searchEditText" />
+    <string name="limitTextView">Limit:</string>
+    <string name="searchButton">Search</string>
+    <string name="resetButton">Reset</string>
+    <string name="sortTextView">Sort by:</string>
+    <string name="priceTextView">Price</string>
+    <string name="sortSwitch" />
+    <string name="dateTextView">Date</string>
+    <string name="resultsTextView">Results</string>
+    <string name="trackTextView">Track:</string>
+    <string name="genreTextView">Genre:</string>
+    <string name="artistTextView">Artist:</string>
+    <string name="albumTextView">Album:</string>
+    <string name="trackPriceTextView">Track Price:</string>
+    <string name="albumPriceTextView">Album Price:</string>
+    <string name="finishButton">Finish</string>
+    <string name="limit">Limit: 10</string>
+    <string name="track_details">Track:</string>
+    <string name="track"></string>
+    <string name="priceTextView_details">Price:</string>
+    <string name="price"></string>
+    <string name="artist_details">Artist:</string>
+    <string name="artist"></string>
+    <string name="datetextView">Date:</string>
+    <string name="date"></string>
+    <string name="genreValue" />
+    <string name="trackValue" />
+    <string name="artistValue" />
+    <string name="albumValue" />
+    <string name="trackPriceValue" />
+    <string name="albumPriceValue" />
+</resources>
+    <!--
+      Assignment : HomeWork 03
+      File Name : Group15_HW03.zip
+      Full Names : Manideep Reddy Nukala, Sai Charan Reddy Vallapureddy
+      -->
